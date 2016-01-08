@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		499BE0F71C3F73DE0007B829 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		499BE0F01C3F73C40007B829 = {
+			isa = PBXGroup;
+			children = (
+				499BE0F71C3F73DE0007B829 /* main.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		499BE0F11C3F73C40007B829 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+			};
+			buildConfigurationList = 499BE0F41C3F73C40007B829 /* Build configuration list for PBXProject "OpenGL_Homework_2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 499BE0F01C3F73C40007B829;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		499BE0F51C3F73C40007B829 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		499BE0F61C3F73C40007B829 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		499BE0F41C3F73C40007B829 /* Build configuration list for PBXProject "OpenGL_Homework_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				499BE0F51C3F73C40007B829 /* Debug */,
+				499BE0F61C3F73C40007B829 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 499BE0F11C3F73C40007B829 /* Project object */;
+}
